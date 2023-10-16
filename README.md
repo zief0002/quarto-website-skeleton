@@ -1,2 +1,2 @@
 # quarto-website-skeleton
-A skelton QUarto website
+A skelton Quarto website
