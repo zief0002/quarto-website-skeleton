@@ -1,11 +1,22 @@
 ---
-title: "Your Title"
+title: "Iggy"
+about:
+  # Templates include: jolla, trestles, solana, marquee, or broadside
+  # https://quarto.org/docs/websites/website-about.html
+  template: jolla
+  image: img/iggy.jpg
+  links:
+    # Available icons: https://icons.getbootstrap.com/
+    - icon: twitter
+      text: twitter
+      href: https://twitter.com
+    - icon: github
+      text: Github
+      href: https://github.com
+    - icon: linkedin
+      text: LinkedIn
+      href: https://linkedin.com
 ---
 
-This is a Quarto website.
+Iggy is the Chief Beggar at Three Bark Manor. When not innovating naptime, Iggy enjoys dinner.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```

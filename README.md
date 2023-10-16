@@ -1,2 +1,6 @@
 # quarto-website-skeleton
-A skelton Quarto website
+
+A skeleton for building a Quarto website.
+
+
+

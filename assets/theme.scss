@@ -1,0 +1,41 @@
+/* ---------------------------------------------------------------------- */
+
+/* https://quarto.org/docs/output-formats/html-themes.html#sass-variables */
+/* ---------------------------------------------------------------------- */
+
+
+/*-- scss:defaults --*/
+
+$navbar-hl: #ca054d;
+
+
+
+
+/*-- scss:rules --*/
+
+/* unvisited link */
+a:link {
+  color:  #ca054d;
+  text-decoration: none;
+}
+
+/* visited link */
+a:visited {
+  color:  #ca054d;
+  text-decoration: none;
+}
+
+/* mouse over link */
+a:hover {
+  color:  #ca054d;
+  text-decoration: underline;
+  
+}
+
+/* selected link */
+a:active {
+  color:  #ca054d;
+  text-decoration: none;
+} 
+
+
